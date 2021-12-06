@@ -28,7 +28,7 @@ Researchers who are interested in CIC dataset can access this dataset from the [
 
 If you find this dataset is helpful, please kindly consider citing the following papers:
 
-1.Zhao, Xuejiao, et al. "Heterogeneous star graph attention network for product attributes prediction." Advanced Engineering Informatics. 51, 101447. 2022. 
+Zhao, Xuejiao, et al. "Heterogeneous star graph attention network for product attributes prediction." Advanced Engineering Informatics. 51, 101447. 2022. 
 
 ```
 @article{ZHAO2022101447,
@@ -39,27 +39,5 @@ volume = {51},
 pages = {101447},
 year = {2022},
 publisher={Elsevier}
-}
-```
-
-2.Luo, Xusheng, et al. "AliCoCo2: Commonsense Knowledge Extraction, Representation and Application in E-commerce." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021. 
-```
-@inproceedings{luo2021alicoco2,
-  title={AliCoCo2: Commonsense Knowledge Extraction, Representation and Application in E-commerce},
-  author={Luo, Xusheng and Bo, Le and Wu, Jinhang and Li, Lin and Luo, Zhiy and Yang, Yonghua and Yang, Keping},
-  booktitle={Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
-  pages={3385--3393},
-  year={2021}
-}
-```
-
-3.Luo, Xusheng, et al. "AliCoCo: Alibaba e-commerce cognitive concept net." Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data. 2020.
-```
-@inproceedings{luo2020alicoco,
-  title={AliCoCo: Alibaba e-commerce cognitive concept net},
-  author={Luo, Xusheng and Liu, Luxin and Yang, Yonghua and Bo, Le and Cao, Yuanpeng and Wu, Jinghang and Li, Qiang and Yang, Keping and Zhu, Kenny Q},
-  booktitle={Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data},
-  pages={313--327},
-  year={2020}
 }
 ```
