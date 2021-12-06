@@ -1,4 +1,5 @@
-# Alibaba-**C**ustermers-**I**nteraction-Dataset-**C**lothing (CIC)
+# CIC
+An **C**ustermers **I**nteraction Dataset of **C**lothing of Alibaba (CIC)
 
 
 ## Overview
