@@ -27,14 +27,17 @@ Researchers who are interested in CIC dataset can access this dataset from the [
 
 If you find this dataset is helpful, please kindly consider citing the following papers:
 
-1.Luo, Xusheng, et al. "AliCoCo: Alibaba e-commerce cognitive concept net." Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data. 2020.
+1.Zhao, Xuejiao, et al. "Heterogeneous star graph attention network for product attributes prediction." Advanced Engineering Informatics. 51, 101447. 2022. 
+
 ```
-@inproceedings{luo2020alicoco,
-  title={AliCoCo: Alibaba e-commerce cognitive concept net},
-  author={Luo, Xusheng and Liu, Luxin and Yang, Yonghua and Bo, Le and Cao, Yuanpeng and Wu, Jinghang and Li, Qiang and Yang, Keping and Zhu, Kenny Q},
-  booktitle={Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data},
-  pages={313--327},
-  year={2020}
+@article{ZHAO2022101447,
+title = {Heterogeneous star graph attention network for product attributes prediction},
+author = {Xuejiao Zhao and Yong Liu and Yonghui Xu and Yonghua Yang and Xusheng Luo and Chunyan Miao},
+journal = {Advanced Engineering Informatics},
+volume = {51},
+pages = {101447},
+year = {2022},
+publisher={Elsevier}
 }
 ```
 
@@ -49,16 +52,13 @@ If you find this dataset is helpful, please kindly consider citing the following
 }
 ```
 
-3.Zhao, Xuejiao, et al. "Heterogeneous star graph attention network for product attributes prediction." Advanced Engineering Informatics. 51, 101447. 2022. 
-
+3.Luo, Xusheng, et al. "AliCoCo: Alibaba e-commerce cognitive concept net." Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data. 2020.
 ```
-@article{ZHAO2022101447,
-title = {Heterogeneous star graph attention network for product attributes prediction},
-author = {Xuejiao Zhao and Yong Liu and Yonghui Xu and Yonghua Yang and Xusheng Luo and Chunyan Miao},
-journal = {Advanced Engineering Informatics},
-volume = {51},
-pages = {101447},
-year = {2022},
-publisher={Elsevier}
+@inproceedings{luo2020alicoco,
+  title={AliCoCo: Alibaba e-commerce cognitive concept net},
+  author={Luo, Xusheng and Liu, Luxin and Yang, Yonghua and Bo, Le and Cao, Yuanpeng and Wu, Jinghang and Li, Qiang and Yang, Keping and Zhu, Kenny Q},
+  booktitle={Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data},
+  pages={313--327},
+  year={2020}
 }
 ```
