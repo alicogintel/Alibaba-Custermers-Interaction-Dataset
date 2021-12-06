@@ -1,4 +1,4 @@
-# Alibaba-Custermers-Interaction-Dataset-Clothing
+# Alibaba-Custermers-Interaction-Dataset (Clothing)
 
 
 ## Overview
